@@ -1,0 +1,16 @@
+{"workbench.colorCustomizations": {
+    "activityBar.background": "#92b5ff",
+    "activityBar.foreground":"#000000",
+    "activityBar.activeBackground":"#00ff00",
+    "statusBar.background":"#000",
+    "statusBar.foreground": "#2be51a",
+    "titleBar.activeBackground":"#92b5ff",
+    "titleBar.activeForeground": "#000",
+    "editor.fontFamily": "alice, Consolas, 'Courier New', monospace",
+    "editor.background": "#2f0a96",
+    "editor.foreground":"#c5c8c6"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "css.autoValidation": "Always"
+
+}
